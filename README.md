@@ -7,4 +7,6 @@ i wrote this for a class i am in, so we can grab audio from ebutuoy if things ar
 
 aaaaanywwaaaays
 
-download <a href="https://github.com/ytdl-org/youtube-dl/releases"youtube-dl</a> here and <a href="https://ffmpeg.org/"ffmpeg</a> here.
+download 
+youtube-dl https://github.com/ytdl-org/youtube-dl/releases
+ffmpeg https://ffmpeg.org/
