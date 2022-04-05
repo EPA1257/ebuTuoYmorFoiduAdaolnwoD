@@ -1,5 +1,5 @@
 'This was written on 9/11... "OH GOSH!"
-'"Please Don'T Hurt me>>>>>..>>>!>>" - Sam Bell
+'"Please Don'T Hurt me>>>>>..>>>!>>" - Kait Bell
 'lines 4-11 and part of 15 was Kompletely Kopied from Michael Salsbury of Stack Overflow. Thank christ for stack overflow. without it I would never know how to do this stuff.
 Function getCommandOutput(theCommand)
 
